@@ -1,8 +1,6 @@
 # Projet 2 — Analysez des données de systèmes éducatifs
 
 **Formation** : Data Scientist — OpenClassrooms  
-**Validé le** : 20 janvier 2023  
-**Évaluateur** : Mohamed Sfina
 
 ## Contexte
 
